@@ -17,7 +17,7 @@
 - 추천시스템: 이용자 보유 및 선택 도서 기반 책추천
 
 ## 🚀아키텍처(Architecture)
-<img src="image\아키텍처.png">
+<img src="image\아키텍처.JPG">
 
 ## 💻ChaekCheck Web 상세 화면
 <img src="image\상세화면1.png">
