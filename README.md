@@ -16,8 +16,8 @@
 - OCR: 책장 사진을 통해 책 제목 인식 및 온라인 등록
 - 추천시스템: 이용자 보유 및 선택 도서 기반 책추천
 
-## 🚀서비스 흐름도
-<img src="image\책쳌흐름도.png">
+## 🚀아키텍처(Architecture)
+<img src="image\아키텍처.png">
 
 ## 💻ChaekCheck Web 상세 화면
 <img src="image\상세화면1.png">
@@ -29,11 +29,7 @@
 
 
 ## 🤗CHAEK CHECK 팀을 소개합니다.
-- 가재준
-- 남혜원
-- 박영요
-- 이솔
-- 이어진
+
 
 ## ⚙️Skills & Tools
 - Language: Python, SQL
